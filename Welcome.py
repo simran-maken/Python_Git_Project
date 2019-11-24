@@ -1,1 +1,2 @@
-print("Welcome to Python World")
+def printFunction():
+	print("Welcome to Python World")
